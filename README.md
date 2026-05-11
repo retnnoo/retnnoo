@@ -1,18 +1,24 @@
-<h1 align="center">Hi, I'm Retno Wardani</h1>
-<h3 align="center">Data Enthusiast | Data Science | Machine Learning | Front-End Developer</h3>
+<h1 align="center">Hi, I'm Retno Wardani 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/retno-wardani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Retno%20Wardani-blue?style=for-the-badge&logo=linkedin">
+  Data Science • Data Analyst • Machine Learning Engineer • Front-End Developer
+</p>
+
+<p align="center">
+  Turning data into insights and insights into solutions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/retno-wardani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:retnowardani024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
 
-## 👩‍🎓 About Me
+## About Me
 
 🎓 Informatics Engineering Graduate from Universitas Sriwijaya  
 📊 Passionate about **Data Analysis, Data Science, and Machine Learning**  
@@ -20,9 +26,9 @@
 
 I love transforming raw data into meaningful insights through data preprocessing, exploratory data analysis (EDA), and machine learning modeling. I also enjoy building interactive web interfaces to present data-driven solutions.
 
----
 
-## 🧠 Languages
+
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
@@ -32,9 +38,8 @@ I love transforming raw data into meaningful insights through data preprocessing
   <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql"/>
 </p>
 
----
 
-## ⚙️ Tech
+## Tech
 
 
 <p>
@@ -59,9 +64,6 @@ I love transforming raw data into meaningful insights through data preprocessing
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 </p>
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/retno-wardani
-- Email: retnowardani024@gmail.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retnoo"/>
+</p>
