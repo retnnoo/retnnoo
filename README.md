@@ -63,7 +63,3 @@ I love transforming raw data into meaningful insights through data preprocessing
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft"/>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retnoo"/>
-</p>
